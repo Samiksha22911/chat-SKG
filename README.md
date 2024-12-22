@@ -1,2 +1,2 @@
 # chat-SKG
-I have used the basics of HTML, CSS, and JavaScript in this project. It is essentially a simpler version of ChatGPT.
+This is my first git repository. I have used the basics of HTML, CSS, and JavaScript in this project. It is a simpler version of ChatGPT.
